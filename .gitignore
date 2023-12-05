@@ -1,0 +1,11 @@
+__pycache__/*
+output_results/*
+Z_divrank_results_sensitivity/*
+zz_output_results/*
+Z_cfa_output_results/*
+copies/*
+cfa/__pycache__/cfa.cpython-310.pyc
+output_results2/
+results/
+z_output_results/
+.vscode
